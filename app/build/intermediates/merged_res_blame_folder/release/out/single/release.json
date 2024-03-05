@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable_astro_icon.jpg.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/drawable/astro_icon.jpg"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/raw_work.json.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/raw/work.json"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/raw_wa.json.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/raw/wa.json"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/layout_activity_splashscreen.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/raw_policy.json.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/raw/policy.json"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/anim_fade_in.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.astro.astrologylivetal.app-pngs-28:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/layout_activity_main2.xml.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/raw_share.json.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/raw/share.json"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/raw_fee.json.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/raw/fee.json"
+    },
+    {
+        "merged": "com.astro.astrologylivetal.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.astro.astrologylivetal.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Mar 05 17:42:20 IST 2024
+base.0=D\:\\PublishMe\\again\\AstrologyLiveTalk\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

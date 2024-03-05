@@ -1,0 +1,6 @@
+com.astro.astrologylivetal.test.app-annotation-experimental-1.3.0-0 C:\Users\DEEPAK SHARMA\.gradle\caches\transforms-3\370dc6df9c1ddfc3c2f9320d443702d0\transformed\annotation-experimental-1.3.0\res
+com.astro.astrologylivetal.test.app-core-1.5.0-1 C:\Users\DEEPAK SHARMA\.gradle\caches\transforms-3\c8607414e9ae04aaf80b1bde0a39360d\transformed\core-1.5.0\res
+com.astro.astrologylivetal.test.app-androidTest-2 D:\PublishMe\again\AstrologyLiveTalk\app\build\generated\res\resValues\androidTest\debug
+com.astro.astrologylivetal.test.app-mergeDebugAndroidTestResources-3 D:\PublishMe\again\AstrologyLiveTalk\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.astro.astrologylivetal.test.app-mergeDebugAndroidTestResources-4 D:\PublishMe\again\AstrologyLiveTalk\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.astro.astrologylivetal.test.app-merged_res-5 D:\PublishMe\again\AstrologyLiveTalk\app\build\intermediates\merged_res\debugAndroidTest
